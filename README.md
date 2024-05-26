@@ -1,4 +1,6 @@
 # Hi, I am Hashir Hamid
+#### A passionate apps engineer
+<br>
 🔭 I’m currently working on **Flutter**<br><br>🌱 I’m currently learning **Android Native(Java/Kotlin)**<br><br>💬 Ask me about **Mobile App Development**, **Machine Learning** and **Deep Learning**<br><br>⚡ Fun fact **I think I am a good observer**
 
 
@@ -6,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hashir.hamid.332) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hashirhamid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashir-hamid) 
 <br>
 
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <table>
  <tr>
@@ -77,7 +79,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hashirhamid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hashirhamid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirhamid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
