@@ -12,12 +12,13 @@
   <td valign="top" width="33%">
     <h2 align="center">Frontend</h2>
     <div align="center">
+     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
      <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white &nbsp;&nbsp;
      <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />&nbsp;
+     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
      <img src=https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB />&nbsp;
      <img src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>&nbsp;
-     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
     </div>
   </td>
   <td valign="top" width="33%">
@@ -26,9 +27,6 @@
    <img src=https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white />&nbsp;
    <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />&nbsp;
    <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />&nbsp;
-   <img src=https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql/>&nbsp;
-   <img src=https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white />&nbsp;
-   <img src=https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white />&nbsp;  
    <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />&nbsp;
    <img src=https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white />&nbsp;  
    <img src=https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white/>&nbsp;  
@@ -41,33 +39,21 @@
   <td valign="top" width="33%">
    <h2 align="center">Databases</h2>
     <div align="center">
-     <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />&nbsp;
      <img src= https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
-     <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white/>&nbsp;
    </div>
   </td>
   </tr>
 </table>
 <table>
   <tr>
-    <td valign="top" width="33%">
-     <h2 align="center">Cloud</h2>
-     <div class="note" align="center">
-      <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white />&nbsp;
-      <img src=https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white />&nbsp;
-      <img src=https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 />&nbsp;
-      <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white />&nbsp;    
-     </div>
-    </td>
+    
    <td valign="top" width="33%">
-      <h2 align="center">Devops and Versioning</h2>
+      <h2 align="center">Versioning</h2>
       <div class="note" align="center">
        <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />&nbsp;
-       <img src=https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white />&nbsp;
-       <img src=https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white />&nbsp;
