@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Android Native(Java/Kotlin)<br>💬 Ask me about Mobile App Development, Machine Learning and Deep Learning<br>⚡ Fun fact I think I am a good observer
+# Hi, I am Hashir Hamid
+🔭 I’m currently working on **Flutter**<br>🌱 I’m currently learning **Android Native(Java/Kotlin)**<br>💬 Ask me about **Mobile App Development**, **Machine Learning** and **Deep Learning**<br>⚡ Fun fact **I think I am a good observer**
 
 
 ## 🌐 Socials:
