@@ -2,7 +2,7 @@
 <h4 align="center">A passionate Apps Engineer.</h4>
 <br>
 
-🔭 I’m currently working on **Flutter**<br><br>🌱 I’m currently learning **Android Native(Java/Kotlin)**<br><br>💬 Ask me about **Mobile App Development**, **Machine Learning** and **Deep Learning**<br><br>⚡ Fun fact **I think I am a good observer**
+🔭 I’m currently working on **VueJS** & **FastAPI**<br><br>🌱 I’m currently learning **VueJS**<br><br>💬 Ask me about **Full Stack Development**, **Mobile App Development**, **Machine Learning** and **Deep Learning**<br><br>⚡ Fun fact **I think I am a good observer**
 
 
 ## 🌐 Socials:
